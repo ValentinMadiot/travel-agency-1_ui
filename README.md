@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://agence-de-voyage-vm.netlify.app/" target="_blank">
-      <img src="docs/travel-agency_ui_img.png" alt="Aperçu du projet">
+      <img src=".docs/preview.png" alt="Aperçu du projet">
     </a>
     </br>
     </br>
